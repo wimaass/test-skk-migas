@@ -1,6 +1,6 @@
 # Indentitas Personal
 - Nama    : Wimas Tri Harjoko
-- Jabatan : Full Stack Developer
+- Jabatan : Programmer
 - Tanggal : 26 September 2024
 - No. Telp: 085712246357
 
